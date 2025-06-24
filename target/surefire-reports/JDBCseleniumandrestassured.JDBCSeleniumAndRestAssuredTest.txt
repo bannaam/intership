@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: JDBCseleniumandrestassured.JDBCSeleniumAndRestAssuredTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.452 sec <<< FAILURE!
+DBwithRestAssuredTest(JDBCseleniumandrestassured.JDBCSeleniumAndRestAssuredTest)  Time elapsed: 0.009 sec  <<< FAILURE!
+java.lang.RuntimeException: Test not implemented
+	at JDBCseleniumandrestassured.JDBCSeleniumAndRestAssuredTest.DBwithRestAssuredTest(JDBCSeleniumAndRestAssuredTest.java:9)
+
+logInTest(JDBCseleniumandrestassured.JDBCSeleniumAndRestAssuredTest)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.RuntimeException: Test not implemented
+	at JDBCseleniumandrestassured.JDBCSeleniumAndRestAssuredTest.logInTest(JDBCSeleniumAndRestAssuredTest.java:14)
+

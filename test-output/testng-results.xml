@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-06-23T00:36:58Z" name="Default suite" finished-at="2025-06-23T00:37:14Z" duration-ms="16713">
+  <suite started-at="2025-06-24T01:44:58Z" name="Default suite" finished-at="2025-06-24T01:45:18Z" duration-ms="19718">
     <groups>
     </groups>
-    <test started-at="2025-06-23T00:36:58Z" name="Default test" finished-at="2025-06-23T00:37:14Z" duration-ms="16713">
+    <test started-at="2025-06-24T01:44:58Z" name="Default test" finished-at="2025-06-24T01:45:18Z" duration-ms="19718">
       <class name="JDBCseleniumandrestassured.JDBCSeleniumAndRestAssured">
-        <test-method signature="DBwithRestAssured()[pri:0, instance:JDBCseleniumandrestassured.JDBCSeleniumAndRestAssured@632ceb35]" started-at="2025-06-23T00:36:58Z" name="DBwithRestAssured" finished-at="2025-06-23T00:37:00Z" duration-ms="2053" status="PASS">
+        <test-method signature="DBwithRestAssured()[pri:0, instance:JDBCseleniumandrestassured.JDBCSeleniumAndRestAssured@4716be8b]" started-at="2025-06-24T01:44:59Z" name="DBwithRestAssured" finished-at="2025-06-24T01:45:01Z" duration-ms="2775" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- DBwithRestAssured -->
-        <test-method signature="logIn()[pri:0, instance:JDBCseleniumandrestassured.JDBCSeleniumAndRestAssured@632ceb35]" started-at="2025-06-23T00:37:00Z" name="logIn" finished-at="2025-06-23T00:37:14Z" duration-ms="14639" status="PASS">
+        <test-method signature="logIn()[pri:0, instance:JDBCseleniumandrestassured.JDBCSeleniumAndRestAssured@4716be8b]" started-at="2025-06-24T01:45:01Z" name="logIn" finished-at="2025-06-24T01:45:18Z" duration-ms="16915" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logIn -->

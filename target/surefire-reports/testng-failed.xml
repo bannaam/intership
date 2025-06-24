@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [JDBCseleniumandrestassured.JDBCSeleniumAndRestAssuredTest]" verbose="0">
+  <test thread-count="5" name="Command line test(failed)" verbose="0">
+    <classes>
+      <class name="JDBCseleniumandrestassured.JDBCSeleniumAndRestAssuredTest">
+        <methods>
+          <include name="logInTest"/>
+          <include name="DBwithRestAssuredTest"/>
+        </methods>
+      </class> <!-- JDBCseleniumandrestassured.JDBCSeleniumAndRestAssuredTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [JDBCseleniumandrestassured.JDBCSeleniumAndRestAssuredTest] -->

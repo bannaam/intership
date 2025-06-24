@@ -33,10 +33,10 @@ public class JDBCSeleniumAndRestAssured {
 		//Thread.sleep(2000);
 		WebElement logIn = driver.findElement(By.xpath("//button[1]"));
 		logIn.click();
-		Thread.sleep(5000);
-		WebElement project = driver.findElement(By.xpath("//a[text()='Projects']"));
-		project.click();
-		
+//		Thread.sleep(5000);
+//		WebElement project = driver.findElement(By.xpath("//a[text()='Projects']"));
+//		project.click();
+//		
 		//create a new project
 		/**
 		WebElement createProject= driver.findElement(By.xpath("//button[@class='btn btn-success']"));
